@@ -1,4 +1,1 @@
-AAPL      230        Larger
-002594.SZ   160      Larger
-U           16       Larger
-002493.SZ   10       Smaller
+VALE   6.5   Lower
