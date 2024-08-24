@@ -1,1 +1,3 @@
-
+AAPL      230        Larger
+002594.SZ   160      Larger
+U           16       Larger
