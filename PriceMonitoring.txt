@@ -1,2 +1,3 @@
 VALE   6.5   Lower
 LULU   180.0  Lower
+INTC   17.0   Lower
