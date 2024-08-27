@@ -3,3 +3,4 @@ LULU   180.0  Lower
 INTC   17.0   Lower
 MRNA   58.0   Lower
 000858.SZ  116.0  Lower
+U      18.16    Larger
