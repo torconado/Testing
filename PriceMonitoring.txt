@@ -4,3 +4,4 @@ INTC   17.0   Lower
 MRNA   58.0   Lower
 000858.SZ  110.0  Lower
 U      18.16    Larger
+Li     16.2      Lower
