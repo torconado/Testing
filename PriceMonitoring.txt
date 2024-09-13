@@ -2,7 +2,7 @@ VALE   6.5   Lower
 LULU   180.0  Lower
 INTC   17.0   Lower
 MRNA   58.0   Lower
-000858.SZ  110.0  Lower
+000858.SZ  11.0  Lower
 Li     16.2      Lower
 TQQQ    31.0      Lower
 SOXL    16.0      Lower
