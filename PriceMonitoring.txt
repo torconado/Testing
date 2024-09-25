@@ -7,3 +7,4 @@ Li     16.2      Lower
 TQQQ    31.0      Lower
 SOXL    16.0      Lower
 U       18.0     Higher
+BTE      2.9      Lower
