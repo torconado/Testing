@@ -8,3 +8,4 @@ TQQQ    31.0      Lower
 SOXL    16.0      Lower
 U       18.0     Higher
 BTE      2.7    Lower
+RDFN      12.1   Lower
