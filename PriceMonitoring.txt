@@ -7,4 +7,4 @@ Li     69     Higher
 TQQQ    31.0      Lower
 SOXL    16.0      Lower
 BTE      2.7    Lower
-RDFN      12.1   Lower
+RDFN      11.9  Lower
