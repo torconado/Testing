@@ -6,4 +6,4 @@ MRNA   52.0   Lower
 Li     69     Higher
 TQQQ    31.0      Lower
 SOXL    16.0      Lower
-BTE      2.85  Lower
+BTE      2.80 Lower
