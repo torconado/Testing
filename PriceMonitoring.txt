@@ -1,2 +1,3 @@
 BTE   2.0 Lower
 ZI     10.24   Lower
+ASML    635.79  Lower
