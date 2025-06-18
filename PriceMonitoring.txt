@@ -1,4 +1,4 @@
-BTE   2.0 Lower
-ZI     10.24   Lower
-ASML    635.79  Lower
-Z       68.41   Lower
+JD     31.57 Lower
+NXPI   245.0 Higher
+1519.hk  7.63 Higher
+HAL     31.0  Higher
