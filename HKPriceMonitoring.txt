@@ -1,1 +1,8 @@
-1519.hk     31.57 Lower
+291.hk     24.0   Lower
+291.hk     36.3   Higher
+1448.hk    3.5    Lower
+1448.hk    5.6    Higher
+2057.hk    132    Lower
+2057.hk    205    Higher
+6049.hk    27.5   Lower
+6049.hk    39.5   Lower
