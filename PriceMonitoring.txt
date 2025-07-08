@@ -1,4 +1,4 @@
 JD     31.57 Lower
-NXPI   245.0 Higher
+NXPI   241.0 Higher
 HAL     31.0  Higher
 NIO     3.22  Lower
