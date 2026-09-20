@@ -3,3 +3,5 @@ NXPI   241.0 Higher
 HAL     31.0  Higher
 NIO     3.22  Lower
 VOYG    38.0   Lower
+PONY    6.66   Lower
+NIO     3.5    Lower
