@@ -6,6 +6,7 @@ COIN    139.1  Lower
 JD      24.4   Lower
 MELI    1510.0 Lower
 UPS     85.6   Lower
+NVO     35.2   LOWER
 CAT
 ARE
 NXPI
