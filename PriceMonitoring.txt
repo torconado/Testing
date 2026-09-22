@@ -7,6 +7,8 @@ JD      24.4   Lower
 MELI    1510.0 Lower
 UPS     85.6   Lower
 NVO     35.2   LOWER
+PONY    11.0   HIGHER
+ON      113.0  HIGHER
 CAT
 ARE
 NXPI
