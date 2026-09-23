@@ -9,6 +9,7 @@ UPS     85.6   Lower
 NVO     35.2   LOWER
 PONY    11.0   HIGHER
 ON      113.0  HIGHER
+TPR     112.0  LOWER
 CAT
 ARE
 NXPI
