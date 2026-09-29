@@ -1,4 +1,4 @@
-NIO     3.5    Lower
+NIO     5.78   HIGHER
 CORZ    15.93  Lower
 Q       112    Lower
 AKAM    100    Lower
